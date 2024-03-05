@@ -1,0 +1,1 @@
+{"id":"w5cd3xi5xkqmp3rjuqmick7qayfdusyxzdeso55c3pmdpgatyula","stamp":"2024-03-05T22:44:31.13264899Z","payload":{"op":"account_issue","note":"bounty to proposal 26 author","args":{"amount":{"asset":"plural","quantity":40},"from":"treasury+issue","to":"user:petar"}}}

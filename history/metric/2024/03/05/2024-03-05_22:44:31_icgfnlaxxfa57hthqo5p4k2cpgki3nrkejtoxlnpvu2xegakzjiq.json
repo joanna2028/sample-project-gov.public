@@ -1,0 +1,1 @@
+{"id":"icgfnlaxxfa57hthqo5p4k2cpgki3nrkejtoxlnpvu2xegakzjiq","stamp":"2024-03-05T22:44:31.10971965Z","payload":{"motion":{"open":null,"close":{"id":"25","type":"concern","policy":"waimea-concern","decision":"accept","receipts":[{"account":"user:petar","type":"refund","amount":{"asset":"plural","quantity":196}}]},"cancel":null}}}

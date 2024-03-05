@@ -1,0 +1,1 @@
+{"id":"vl34ovqoamxvp2vearmehhoestyp3klsj6lucejkvkd2yeletofa","stamp":"2024-03-05T22:44:31.129406501Z","payload":{"op":"account_transfer_overdraft","note":"bounty to proposal 26 author","args":{"amount":{"asset":"plural","quantity":40},"from":"treasury+issue","to":"user:petar"}}}

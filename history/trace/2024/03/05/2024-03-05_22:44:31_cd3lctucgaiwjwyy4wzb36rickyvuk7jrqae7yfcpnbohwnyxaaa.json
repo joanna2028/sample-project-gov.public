@@ -1,0 +1,1 @@
+{"id":"cd3lctucgaiwjwyy4wzb36rickyvuk7jrqae7yfcpnbohwnyxaaa","stamp":"2024-03-05T22:44:31.09409775Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot waimea/motion/priority_poll/25","args":{"amount":{"asset":"plural","quantity":196},"from":"ballot_escrow:waimea/motion/priority_poll/25","to":"user:petar"}}}
